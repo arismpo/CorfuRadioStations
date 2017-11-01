@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,France::RTL 2
+http://ais.rtl.fr/rtl2-1-44-128
+#EXTINF:-1,France::Fun Radio
+http://streaming.radio.funradio.fr/fun-1-44-64
+#EXTINF:-1,France::Top Music
+http://str0.creacast.com/topmusic1
+#EXTINF:-1,France::Radio Cristal
+http://radiocristal.ice.infomaniak.ch/radiocristal-high
+#EXTINF:-1,France::Enjoy
+http://streaming.streamonomy.com/enjoy.mp3
+#EXTINF:-1,France::Voltage
+http://start-voltage.ice.infomaniak.ch/start-voltage-high
+#EXTINF:-1,France::mfm Radio
+http://mfm.ice.infomaniak.ch/mfm-128.mp3
+#EXTINF:-1,France::Fip
+http://chai5she.cdn.dvmr.fr/fip-midfi.mp3
+#EXTINF:-1,France::France music-la jazz
+http://chai5she.cdn.dvmr.fr/francemusiquelajazz-hifi.mp3
+#EXTINF:-1,France::France Bleu
+http://chai5she.cdn.dvmr.fr/fb1071-midfi.mp3
