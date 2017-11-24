@@ -1,0 +1,28 @@
+﻿#EXTM3U
+#EXTINF:-1,A8ina:: Velvet
+http://ice.onestreaming.com/velvetfm
+#EXTINF:-1,A8ina:: Melodia 99.2
+netradio.live24.gr:80/melodia
+#EXTINF:-1,A8ina:: Sfera 102.2
+sfera.live24.gr/sfera4132
+#EXTINF:-1,A8ina:: LoveRadio 97.5
+loveradio.live24.gr/loveradio-1000
+#EXTINF:-1,A8ina:: Kiss 92.9
+kissfm.live24.gr:80/kiss2111
+#EXTINF:-1,A8ina:: Diesi 101.3
+diesi.live24.gr/diesi1013
+#EXTINF:-1,A8ina:: Sport Fm 94.6
+sportfm.live24.gr/sportfm7712
+#EXTINF:-1,A8ina:: Era Sport 101.8
+radiostreaming.ert.gr/ert-erasport
+#EXTINF:-1,A8ina:: Ert Proto Programma 105.8
+radiostreaming.ert.gr/ert-proto
+#EXTINF:-1,A8ina:: Alpha 98.9
+194.219.46.2:8080/live
+
+#EXTINF:-1,Thessaloniki:: Kosmo Radio 95.1
+eco.onestreaming.com:8689
+#EXTINF:-1,Thessaloniki:: Erotikos 94.8
+eu7.fastcast4u.com:6154
+#EXTINF:-1,Thessaloniki:: rso 91.7
+37.98.197.91:8111
