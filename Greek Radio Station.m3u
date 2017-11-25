@@ -21,8 +21,8 @@ http://radiostreaming.ert.gr/ert-proto
 http://194.219.46.2:8080/live
 
 #EXTINF:-1,Θεσσαλονίκη: Kosmo Radio 95.1
-http://eco.onestreaming.com:8689
+http://eco.onestreaming.com:8689/stream
 #EXTINF:-1,Θεσσαλονίκη: Erotikos 94.8
-http://eu7.fastcast4u.com:6154
+http://eu7.fastcast4u.com:6154/stream?type=http&nocache=160037
 #EXTINF:-1,Θεσσαλονίκη: rso 91.7
-http://37.98.197.91:8111
+http://37.98.197.91:8111/;?type=http&nocache=11554
