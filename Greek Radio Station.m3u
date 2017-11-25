@@ -2,27 +2,27 @@
 #EXTINF:-1,Αθήνα:Velvet
 http://ice.onestreaming.com/velvetfm
 #EXTINF:-1,Αθήνα:Melodia 99.2
-netradio.live24.gr:80/melodia
+http://netradio.live24.gr/melodia
 #EXTINF:-1,Αθήνα:Sfera 102.2
-sfera.live24.gr/sfera4132
+http://sfera.live24.gr/sfera4132
 #EXTINF:-1,Αθήνα:LoveRadio 97.5
-loveradio.live24.gr/loveradio-1000
+http://loveradio.live24.gr/loveradio-1000
 #EXTINF:-1,Αθήνα:Kiss 92.9
-kissfm.live24.gr:80/kiss2111
+http://kissfm.live24.gr:80/kiss2111
 #EXTINF:-1,Αθήνα:Diesi 101.3
-diesi.live24.gr/diesi1013
+http://diesi.live24.gr/diesi1013
 #EXTINF:-1,Αθήνα:: Sport Fm 94.6
-sportfm.live24.gr/sportfm7712
+http://sportfm.live24.gr/sportfm7712
 #EXTINF:-1,Αθήνα:Era Sport 101.8
-radiostreaming.ert.gr/ert-erasport
+http://radiostreaming.ert.gr/ert-erasport
 #EXTINF:-1,Αθήνα:Ert Proto Programma 105.8
-radiostreaming.ert.gr/ert-proto
+http://radiostreaming.ert.gr/ert-proto
 #EXTINF:-1,Αθήνα:Alpha 98.9
-194.219.46.2:8080/live
+http://194.219.46.2:8080/live
 
 #EXTINF:-1,Θεσσαλονίκη: Kosmo Radio 95.1
-eco.onestreaming.com:8689
+http://eco.onestreaming.com:8689
 #EXTINF:-1,Θεσσαλονίκη: Erotikos 94.8
-eu7.fastcast4u.com:6154
+http://eu7.fastcast4u.com:6154
 #EXTINF:-1,Θεσσαλονίκη: rso 91.7
-37.98.197.91:8111
+http://37.98.197.91:8111
